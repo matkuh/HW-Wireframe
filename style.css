@@ -27,14 +27,14 @@ nav {
 
 #section {
     float: left;
-    width: 55%;
+    width: 495px;
     padding-bottom: 22px;
     padding-top: 30px;
     background: #ebebeb
 }
 #article {
     padding-top: 30px;
-    margin-left: 15px;
+    margin-left: 12px;
     width: 95%;
     float: left;
     margin-top: 30px;
@@ -47,7 +47,7 @@ nav {
     font-weight: bold;
     padding: 20px;
     margin-top: 20px;
-    margin-left: 15px;
+    margin-left: 13px;
     background: #ebebeb;
     color: #777;
     width: 95%;
@@ -56,7 +56,7 @@ nav {
 #p {
     padding: 20px;
     margin-top: 10px;
-    margin-left: 15px;
+    margin-left: 13px;
     background: #ebebeb;
     color: #777;
     width: 95%;
@@ -64,7 +64,7 @@ nav {
 #aside {
     margin-bottom: 20px;
     float: right;
-    width: 43%;
+    width: 47%;
     padding-top: 20px;
     padding-bottom: 300px;
     background: #ebebeb
