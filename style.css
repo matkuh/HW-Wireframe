@@ -12,13 +12,8 @@ body {
     margin: 0 auto;
 }
 
-.clearfix::after{
-    content: " ";
-    display: block;
-    clear: both;
-  }
-
 header {
+    margin-top: 20px;
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb
@@ -31,25 +26,27 @@ nav {
 }
 
 #section {
-    width: 495px;
+    float: left;
+    width: 60%;
     padding-top: 20px;
     padding-bottom: 300px;
     background: #ebebeb
 }
 #article {
-    float: left;
     color: #ebebeb;
     padding: 100px;
     background: #777;
 }
 #aside {
+    float: right;
+    width: 37%;
     padding-top: 20px;
     padding-bottom: 300px;
     background: #ebebeb
 }
 footer {
-    padding: 20px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    clear: both;
+    padding: 20px;
     background: #ebebeb
 }
